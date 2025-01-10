@@ -1,8 +1,13 @@
 User Stories :
+
     1. Ca utilizator, vreau să pot crea un ticket, astfel încât să raportez o problemă.
+
     2. Ca administrator, vreau să vizualizez toate ticketele create, astfel încât să pot monitoriza progresul.
+    
     3. Ca tehnician, vreau să primesc notificări când un ticket este atribuit, pentru a începe rezolvarea.
+    
     4. Ca utilizator, vreau să editez sau să șterg un ticket, astfel încât să corectez informațiile greșite.
+    
     5. Ca manager, vreau să filtrez ticketele după categorie, astfel încât să analizez performanța echipei IT.
 
 1: Creare Ticket (Utilizator)
